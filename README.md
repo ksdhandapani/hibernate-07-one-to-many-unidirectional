@@ -4,7 +4,7 @@ In this example One to Many mapping is mapped between Employee and Address entit
 - Database tables screenshots are attached inside src/main/resources/images/ folder
 - Postman Request and Response
 - **Method :** POST
-- **URL :** http://localhost:8080/hibernate-06-one-to-many-unidirectional/api/employee
+- **URL :** http://localhost:8080/hibernate-07-one-to-many-unidirectional/api/employee
 - **Request Body**
 ```
 {
